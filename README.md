@@ -1,5 +1,5 @@
 # YouTube-Scrapper
-YouTube Scraper GUI: A Python application built with Tkinter for extracting channel data, including views, likes, and comments, within specified date ranges for both videos and shorts.
+YouTube Scraper GUI: A Python application built with Tkinter for extracting channel data, including views, likes, and comments, within specified date ranges for **both videos and shorts**.
 
 ## Overview
 This Python script offers a user-friendly interface for scraping YouTube data based on specified criteria, including channel URL and date range. The GUI is built using Tkinter, facilitating easy input and interaction. Key features include:
